@@ -6,7 +6,7 @@ from db import consultarPaciente
 from db import guardarImc
 from db import getRegistros
 
-
+######
 
 def crearPaciente(): 
     print("********* Ingrese los datos del paciente *******")

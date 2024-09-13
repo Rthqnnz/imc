@@ -44,3 +44,6 @@ pip3 install mysql-connector-python
 - **Sasha Sancan** 
 - **Genesis Morante** 
 - **Jenny Tenesaca** 
+
+
+

@@ -35,7 +35,7 @@ CREATE TABLE `pacientes` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
--- Volcado de datos para la tabla `pacientes`
+------- Volcado de datos para la tabla `pacientes`
 --
 
 INSERT INTO `pacientes` (`ci`, `nombre`, `edad`) VALUES
